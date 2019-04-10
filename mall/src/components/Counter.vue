@@ -16,7 +16,6 @@
         },
         methods:{
           increment(){
-            // 响应父组件的事件
             this.$emit("incre");
           },
           decrement(){
