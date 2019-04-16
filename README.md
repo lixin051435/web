@@ -12,4 +12,10 @@ cnpm install vue-cli -g
 # 用vue-cli创建一个名为demo的项目
 vue init webpack demo
 
+# 执行 开发模式调试
+npm run dev
+
+# 打包 会生成一个dist文件夹
+npm run build
+
 ```
